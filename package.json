@@ -1,0 +1,32 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/app.module.js"
+  },
+  "keywords": [],
+  "author": "Luis Blanco",
+  "license": "MIT",
+  "devDependencies": {
+    "connect": "^3.4.1",
+    "connect-livereload": "^0.5.4",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^3.2.2",
+    "gulp-inject": "^4.0.0",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jshint": "^2.0.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "^1.2.2",
+    "gulp-nodemon": "^2.0.6",
+    "gulp-serve": "^1.2.0",
+    "gulp-size": "^2.1.0",
+    "jshint-stylish": "^2.1.0",
+    "opn": "^4.0.1",
+    "run-sequence": "^1.1.5",
+    "serve-static": "^1.10.2",
+    "wiredep": "^4.0.0"
+  }
+}
